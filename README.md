@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishmi Pasanji</h1>
 <h3 align="center">I'm an undergraduate student at Cardiff Metropolitan University. I'm Interested in Full Stack Development.</h3>
 
-- 🌱 I’m currently learning **ReactJS ,MangoDB ,ExpressJS, NodeJS**
+- 🌱 I’m currently learning **ReactJS ,MongoDB ,ExpressJS, NodeJS**
 
 - 💬 Ask me about **Web Development**
 
